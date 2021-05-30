@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# JSX Rules
+1. Return Single Element
+2. div / section / article or Fragement
+3. Use camelCase for html attribut
+4. className instead of class
+5. close every element
+6. formatting
